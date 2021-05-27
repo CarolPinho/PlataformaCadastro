@@ -1,0 +1,13 @@
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.csprojAssemblyReference.cache
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.AssemblyInfoInputs.cache
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.AssemblyInfo.cs
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.csproj.CoreCompileInputs.cache
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\bin\Debug\netcoreapp3.1\DIO.RealityShows.exe
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\bin\Debug\netcoreapp3.1\DIO.RealityShows.deps.json
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\bin\Debug\netcoreapp3.1\DIO.RealityShows.runtimeconfig.json
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\bin\Debug\netcoreapp3.1\DIO.RealityShows.runtimeconfig.dev.json
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\bin\Debug\netcoreapp3.1\DIO.RealityShows.dll
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\bin\Debug\netcoreapp3.1\DIO.RealityShows.pdb
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.dll
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.pdb
+C:\Users\Carol\meusprojetos\DIO\DIO.RealityShows\obj\Debug\netcoreapp3.1\DIO.RealityShows.genruntimeconfig.cache
